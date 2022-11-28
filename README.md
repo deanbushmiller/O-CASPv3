@@ -1,5 +1,6 @@
 # O-CASPv4
-- The link is old version the course is new version of exam
+- The link is old version nunmber
+- The course has been updated to new version of exam 4
 O'Reilly CASP student page 
 
 ## look in Wiki for details https://github.com/deanbushmiller/O-CASPv3/wiki
